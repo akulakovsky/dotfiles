@@ -1,4 +1,5 @@
-# Feb. 2022
+# My Linux Config Files
+## Feb. 2022
 - Distro: `ArcoLinuxB`
 - Window manager: `bspwm`
 - Color scheme: `Catppuccin`
