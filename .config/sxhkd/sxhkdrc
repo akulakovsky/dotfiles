@@ -6,8 +6,8 @@
 super + v
     code
 
-# Brave
-super + c
+# Browser
+super + b
     chromium --enable-features=WebUIDarkMode --force-dark-mode
 
 # Discord
@@ -119,7 +119,7 @@ XF86AudioStop
     playerctl stop
 
 #########
-# Bspwm #
+# bspwm #
 #########
 
 # Toggle fullscreen of window
