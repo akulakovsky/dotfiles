@@ -9,6 +9,7 @@
 - Main editor: `VS Code`
 - File manager: `Thunar`
 - Compositor: `picom-rounded-corners`
+- GTK Icons: `Surfn-Papirus-Blue`
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22990262/154865120-672123cf-7dd0-4f27-84da-f4462e9d4648.png" />
 </p>
